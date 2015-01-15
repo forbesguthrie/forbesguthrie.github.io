@@ -1,2 +1,2 @@
 # forbesguthrie.github.io
-Test of GitHub pages for blog
+Test of GitHub Pages as a possible blog engine for vReference.com
