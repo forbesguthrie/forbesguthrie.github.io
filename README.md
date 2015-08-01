@@ -1,2 +1,2 @@
 # forbesguthrie.github.io
-Test of GitHub Pages as a possible blog engine for vReference.com
+GitHub Page for forbesguthrie.me domain (and forbesguthrie.com redirect)
