@@ -1,2 +1,2 @@
 # forbesguthrie.github.io
-GitHub Page for forbesguthrie.me domain (and forbesguthrie.com redirect)
+GitHub Page for forbesguthrie.com domain (and forbesguthrie.me redirect)
